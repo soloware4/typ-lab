@@ -1,0 +1,18 @@
+h1 { font-family: 'IM Fell English', serif;
+font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  Background-color:Red;
+  text-transform:lowercase;
+  letter-spacing:1em;
+}
+p{font-family: 'Calligraffitti', cursive;
+font-family: 'IM Fell English', serif;
+font-family: 'Niconne', cursive;
+font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+    background-color:Green;
+  text-transform:Uppercase;
+  font-weight:bold; 
+  Letter-spacing:2em;
+  
+}  
